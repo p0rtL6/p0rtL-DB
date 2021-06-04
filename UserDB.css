@@ -1,7 +1,11 @@
 .avatar-22FtUu.wrapper-3t9DeA[data-user-id="258731845267619840"] {
   --user-badge: url("https://i.imgur.com/JudPeox.gif");
+  --user-border: 3px solid var(--backgroundColor01);
+  --user-background: var(--backgroundColor01);
 }
 
 .avatar-22FtUu.wrapper-3t9DeA[data-user-id="687781368826298400"] {
   --user-badge: url("https://i.imgur.com/FBud75Q.png");
+  --user-border: 3px solid var(--backgroundColor01);
+  --user-background: var(--backgroundColor01);
 }
