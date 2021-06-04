@@ -8,9 +8,9 @@
     margin: -2px 0 0 -2px;
     z-index: 1;
     border-radius: 50%;
-    border: 3px solid var(--backgroundColor01);
+    border: var(--user-border);
     background: var(--user-badge) center/cover no-repeat;
-    background-color: var(--backgroundColor01);
+    background-color: var(--user-background);
     transition: width 0.1s, height 0.1s;
 }
 
@@ -22,7 +22,7 @@
     margin: -2px 0 0 -2px;
     z-index: 1;
     border-radius: 50%;
-    border: 3px solid var(--backgroundColor01);
+    border: var(--user-border);
     background: var(--user-badge) center/cover no-repeat;
-    background-color: var(--backgroundColor01);
+    background-color: var(--user-background);
 }
