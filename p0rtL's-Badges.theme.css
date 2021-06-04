@@ -17,31 +17,4 @@
 ╚╝──────────────
 */
 
-@import url("https://p0rtl6.github.io/p0rtL-DB/UserDB.css?version=2");
-
-.avatar-22FtUu.wrapper-3t9DeA::after {
-    content: "";
-    position: absolute;
-    width: 28px;
-    height: 28px;
-    margin: -2px 0 0 -2px;
-    z-index: 1;
-    border-radius: 50%;
-    border: 3px solid var(--backgroundColor01);
-    background: var(--user-badge) center/cover no-repeat;
-    background-color: var(--backgroundColor01);
-    transition: width 0.1s, height 0.1s;
-}
-
-.avatar-22FtUu.wrapper-3t9DeA:hover::after {
-    content: "";
-    position: absolute;
-    width: 50px;
-    height: 50px;
-    margin: -2px 0 0 -2px;
-    z-index: 1;
-    border-radius: 50%;
-    border: 3px solid var(--backgroundColor01);
-    background: var(--user-badge) center/cover no-repeat;
-    background-color: var(--backgroundColor01);
-}
+@import url("https://p0rtl6.github.io/p0rtL-DB/src/base.css");
