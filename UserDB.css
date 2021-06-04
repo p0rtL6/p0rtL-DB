@@ -1,17 +1,17 @@
 .avatar-22FtUu.wrapper-3t9DeA[data-user-id="258731845267619840"] {
   --user-badge: url("https://i.imgur.com/JudPeox.gif");
   --user-border: 3px solid var(--backgroundColor01);
-  --user-background: var(--backgroundColor01);
+  --user-background: var(--background-floating);
 }
 
 .avatar-22FtUu.wrapper-3t9DeA[data-user-id="687781368826298400"] {
   --user-badge: url("https://i.imgur.com/XcBW6lX.png");
   --user-border: 3px solid var(--backgroundColor01);
-  --user-background: var(--backgroundColor01);
+  --user-background: var(--background-floating);
 }
 
 .avatar-22FtUu.wrapper-3t9DeA[data-user-id="371282972399108096"] {
   --user-badge: url("https://media.tenor.com/images/6121442f24c91b073ff5ef01b6f2df68/tenor.gif");
   --user-border: 3px solid var(--backgroundColor01);
-  --user-background: var(--backgroundColor01);
+  --user-background: var(--background-floating);
 }
