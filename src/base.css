@@ -1,6 +1,6 @@
 @import url("https://p0rtl6.github.io/p0rtL-DB/UserDB.css");
 
-.avatar-22FtUu.wrapper-3t9DeA::after {
+.avatar-37jOim.wrapper-3t9DeA::after {
     content: "";
     position: absolute;
     width: 28px;
@@ -15,7 +15,7 @@
     transition: width 0.1s, height 0.1s;
 }
 
-.avatar-22FtUu.wrapper-3t9DeA:hover::after {
+.avatar-37jOim.wrapper-3t9DeA:hover::after {
     content: "";
     position: absolute;
     width: 50px;
@@ -27,4 +27,3 @@
     border: var(--user-border);
     background: var(--user-badge) center/cover no-repeat;
     background-color: var(--user-background);
-}
