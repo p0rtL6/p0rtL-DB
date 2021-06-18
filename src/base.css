@@ -8,7 +8,7 @@
     left: 0px !important;
     top: 48px !important;
     z-index: 1;
-    border-radius: 50%;
+    border-radius: 50% !important;
     border: var(--user-border);
     background: var(--user-badge) center/cover no-repeat;
     background-color: var(--user-background);
@@ -24,7 +24,7 @@
     left: 0px !important;
     top: 48px !important;
     z-index: 1;
-    border-radius: 50%;
+    border-radius: 50% !important;
     border: var(--user-border);
     background: var(--user-badge) center/cover no-repeat;
     background-color: var(--user-background);
@@ -38,7 +38,7 @@
     left: 0px !important;
     top: 75px !important;
     z-index: 1;
-    border-radius: 50%;
+    border-radius: 50% !important;
     border: var(--user-border);
     background: var(--user-badge) center/cover no-repeat;
     background-color: var(--user-background);
@@ -54,7 +54,7 @@
     left: 0px !important;
     top: 48px !important;
     z-index: 1;
-    border-radius: 50%;
+    border-radius: 50% !important;
     border: var(--user-border);
     background: var(--user-badge) center/cover no-repeat;
     background-color: var(--user-background);
